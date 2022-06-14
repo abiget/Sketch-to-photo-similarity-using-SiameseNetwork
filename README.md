@@ -21,5 +21,6 @@
 ![Demo1 Image](demo%20result/demo_result18.png)
 ![Demo1 Image](demo%20result/demo_result19.png)
 ![Demo1 Image](demo%20result/demo_result20.png)
-**The best matching images are :** <br/>
+<br/>
+<p style='text-align:center'>**The best matching images are :** <br/></p>
 ![Demo1 Image](demo%20result/demo_result21.png)<br>
