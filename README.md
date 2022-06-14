@@ -1,6 +1,6 @@
 # Sketch-Photo-Image-Similarity using Siamese Network
 
-** Demo results with similarity score given by the Siamese Network ** 
+** Demo results with similarity score given by the Siamese Network ** <br/>
 ![Demo1 Image](demo%20result/demo_result1.png)
 ![Demo1 Image](demo%20result/demo_result2.png)
 ![Demo1 Image](demo%20result/demo_result3.png)
@@ -23,4 +23,4 @@
 ![Demo1 Image](demo%20result/demo_result20.png)
 <br/>
 **The best matching images are :** <br/>
-![Demo1 Image](demo%20result/demo_result21.png)<br>
+![Demo1 Image](demo%20result/demo_result21.png)
