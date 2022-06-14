@@ -23,3 +23,4 @@
 ![Demo1 Image](demo%20result/demo_result20.png)<br/>
 **The best matching images are :** <br/>
 ![Demo1 Image](demo%20result/demo_result21.png)<br>
+#Demo results with similarity score given by the Siamese Network
